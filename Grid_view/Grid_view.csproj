@@ -117,12 +117,12 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\Images\s06.jpg" />
     <Content Include="Content\Images\s1.jpg" />
     <Content Include="Content\Images\s2.jpg" />
     <Content Include="Content\Images\s3.jpg" />
     <Content Include="Content\Images\s4.jpg" />
     <Content Include="Content\Images\s5.jpg" />
-    <Content Include="Content\Images\s6.jpg" />
     <Content Include="Content\Site.css" />
     <Content Include="Content\videos\v1.mp4" />
     <Content Include="Content\videos\v2.mp4" />
